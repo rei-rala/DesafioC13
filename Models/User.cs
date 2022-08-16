@@ -22,7 +22,7 @@
 
         public override string ToString()
         {
-            return "Producto Id#" + this.Id
+            return "User Id#" + this.Id
                 + ": [Nombre=" + Nombre
                 + ", Apellido=" + Apellido
                 + ", NombreUsuario=" + NombreUsuario

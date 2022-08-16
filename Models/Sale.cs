@@ -14,7 +14,7 @@
 
         public override string ToString()
         {
-            return "ProductoVendido Id#" + this.Id
+            return "Venta Id#" + this.Id
                 + ": [Comentarios=" + Comentarios
                 + "]";
         }
